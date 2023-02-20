@@ -29,7 +29,7 @@ public class Digits extends JPanel {
         b7.addActionListener(CustomActionListener.generateActionListener(screen,"7"));
         b8.addActionListener(CustomActionListener.generateActionListener(screen,"8"));
         b9.addActionListener(CustomActionListener.generateActionListener(screen,"9"));
-        b10.addActionListener(CustomActionListener.generateActionListener(screen,","));
+        b10.addActionListener(CustomActionListener.generateActionListener(screen,"."));
         b11.addActionListener(CustomActionListener.generateActionListener(screen,"0"));
         b12.addActionListener(CustomActionListener.generateActionListener(screen,"Del"));
 
